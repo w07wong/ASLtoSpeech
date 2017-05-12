@@ -1,0 +1,24 @@
+SpeakTextIntent tell me what he is saying
+SpeakTextIntent tell me what she is saying
+SpeakTextIntent what did he say
+SpeakTextIntent what did she say
+SpeakTextIntent sign language to speech
+SpeakTextIntent translate
+SpeakTextIntent what did he sign
+SpeakTextIntent what did she sign
+SpeakTextIntent tell me what he said
+SpeakTextIntent tell me what she said
+SpeakTextIntent what
+SpeakTextIntent speak
+SpeakTextIntent give me the text
+SpeakTextIntent translate it
+SpeakTextIntent translate him
+SpeakTextIntent translate her
+SpeakTextIntent translate it for me
+SpeakTextIntent please translate
+SpeakTextIntent give me information
+SpeakTextIntent inform me
+SpeakTextIntent what is up
+SpeakTextIntent speak to me
+SpeakTextIntent tell me
+SpeakTextIntent huh

@@ -1,0 +1,21 @@
+{
+  "name": "ASL_Alexa",
+  "version": "1.0.0",
+  "description": "Retrieve text from server and speak it.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "alexa",
+    "skill",
+    "translate"
+  ],
+  "author": "William Wong",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "alexa-sdk": "^1.0.6",
+    "body-parser": "^1.16.0",
+    "express": "^4.14.1"
+  }
+}
